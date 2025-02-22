@@ -25,5 +25,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Contato
 
-Jan M.((https://github.com/potatoesAndMolasses))
+Jan M.
+(https://github.com/potatoesAndMolasses)
 [jan.martins94@gmail.com]
